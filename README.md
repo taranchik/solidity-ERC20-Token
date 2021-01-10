@@ -55,8 +55,6 @@ The contract stipulates that users cannot abuse the functionality in any way.
 
 #### Installation
 
-Open your terminal and type the next commands
-
 1. Open link with the [REMIX IDE](https://remix.ethereum.org/).
 
 2. Create the following files: Bank.sol, ERC20.sol, ZUTtoken.sol.
