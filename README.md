@@ -65,7 +65,7 @@ The contract stipulates that users cannot abuse the functionality in any way.
 
 ![Solidity compiler image](https://i.ibb.co/RQTt1Tz/photo-2020-10-22-00-04-39.jpg)
 
-5. Go to the Deploy & run transactions section,
+5. Go to the Deploy & run transactions section.
 
 ![Deploy & run transactions image](https://i.ibb.co/r6WmXwM/photo-2020-10-22-00-04-59.jpg)
 
